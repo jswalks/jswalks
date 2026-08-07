@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:b026ff&height=200&section=header&text=jswalks&fontSize=70&fontColor=0a0414&animation=fadeIn&fontAlignY=38&desc=aka%20Highjackal%20%E2%80%94%20Platform%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:b026ff&height=200&section=header&text=jswalks&fontSize=70&fontColor=0a0414&animation=fadeIn&fontAlignY=38&desc=aka%20Highjackal%20%E2%80%94%20Platform%20%and%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" alt="jswalks profile header"/>
 
 <img src="./assets/highjackal.svg" width="130" alt="Highjackal mark"/>
 
@@ -11,9 +11,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0414?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://your-site-here.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0414?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/-Highjackal-0a0414?style=for-the-badge&logo=x&logoColor=b026ff)](https://twitter.com/your-handle)
-[![Location](https://img.shields.io/badge/-London%2C%20UK-0a0414?style=for-the-badge&logo=googlemaps&logoColor=00f0ff)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0414?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/jswalker-data)
 
 </div>
 
@@ -88,9 +86,9 @@ philosophy: "if it can be scripted, it shouldn't be manual"
 ### 🏋️ athleteOS
 Training & performance tracking platform for athletes — built to bring devops-grade reliability to a personal fitness tool.
 
-`Python` `Docker` `PostgreSQL`
+`Claude` `Automation` 
 
-[**→ View repo**](https://github.com/jswalks/athleteOS)
+[**→ View repo**](https://github.com/jswalks/Athlete.OS)
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +108,7 @@ An MCP server that lets AI agents query and act on Pokémon data — early-stage
 ### 🃏 TCGdex — Contributor
 Contributing card & set data to the open-source Pokémon TCG database that powers apps across the ecosystem.
 
-`Open Source` `Data`
+`Open Source` `Data` `TtypeScript`
 
 [**→ TCGdex on GitHub**](https://github.com/tcgdex)
 
@@ -126,11 +124,89 @@ A roguelike built from scratch — dungeon generation, combat, and progression s
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗡️ Tamers Gauntlet
+A monster catcher and training game written in python and using tiled
+
+`Python` `Tiled`
+
+[**→ View repo**](https://github.com/jswalks/Tamers_Gauntlet)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Eating Companion
+App to help with individuals eating habits
+
+`Swift` `tbc`
+
+[**→ View repo**](https://github.com/jswalks/eating_companion)
+
+</td>
+</tr>
 </table>
 
 </div>
 
 <br/>
+
+## ⚙️ Setups & Configs
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 dotfiles
+My personal environment setup — shell, terminal, and tool configs.
+
+`Shell` `Config`
+
+[**→ View repo**](https://github.com/jswalks/dotfiles)
+
+</td>
+<td width="50%" valign="top">
+
+### 💤 LazyVimFork
+A personalized fork of LazyVim — tuned to how I actually work.
+
+`Lua` `Neovim`
+
+[**→ View repo**](https://github.com/jswalks/LazyVimFork)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📦 Packages
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🎲 dice_roller_rs
+Simulator for rpg dice roller
+
+`Rust`
+
+[![Crates.io](https://img.shields.io/crates/v/dice_roller_rs?style=flat-square&color=b026ff&logo=rust&logoColor=00f0ff&label=crates.io)](https://crates.io/crates/dice_roller_rs)
+
+[**→ View repo**](https://github.com/jswalks/dice_roller_rs)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Stats
 
