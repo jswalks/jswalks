@@ -84,7 +84,7 @@ philosophy: "if it can be scripted, it shouldn't be manual"
 <td width="50%" valign="top">
 
 ### 🏋️ athleteOS
-Training & performance tracking platform for athletes — built to bring devops-grade reliability to a personal fitness tool.
+Training & performance tracking platform for athletes — built to bring devops-grade reliability to a personal fitness tool
 
 `Claude` `Automation` 
 
@@ -94,7 +94,7 @@ Training & performance tracking platform for athletes — built to bring devops-
 <td width="50%" valign="top">
 
 ### 🎮 Pokémon MCP Server
-An MCP server that lets AI agents query and act on Pokémon data — early-stage, actively building.
+An MCP server that lets AI agents query and act on Pokémon data — early-stage, actively building
 
 `TypeScript` `MCP` `Node.js`
 
@@ -106,9 +106,9 @@ An MCP server that lets AI agents query and act on Pokémon data — early-stage
 <td width="50%" valign="top">
 
 ### 🃏 TCGdex — Contributor
-Contributing card & set data to the open-source Pokémon TCG database that powers apps across the ecosystem.
+Contributing card & set data to the open-source Pokémon TCG database that powers apps across the ecosyste
 
-`Open Source` `Data` `TtypeScript`
+`Open Source` `Data` `TypeScript`
 
 [**→ TCGdex on GitHub**](https://github.com/tcgdex)
 
@@ -116,7 +116,7 @@ Contributing card & set data to the open-source Pokémon TCG database that power
 <td width="50%" valign="top">
 
 ### ⚔️ Rogue-Like-Game
-A roguelike built from scratch — dungeon generation, combat, and progression systems.
+A roguelike built from scratch — dungeon generation, combat, and progression systems
 
 `Python`
 
@@ -128,7 +128,7 @@ A roguelike built from scratch — dungeon generation, combat, and progression s
 <td width="50%" valign="top">
 
 ### 🗡️ Tamers Gauntlet
-A monster catcher and training game written in python and using tiled
+A monster catcher and training game written in Python using Tiled
 
 `Python` `Tiled`
 
@@ -138,7 +138,7 @@ A monster catcher and training game written in python and using tiled
 <td width="50%" valign="top">
 
 ### 🍽️ Eating Companion
-App to help with individuals eating habits
+App to help with individuals' eating habits
 
 `Swift` `tbc`
 
@@ -161,7 +161,7 @@ App to help with individuals eating habits
 <td width="50%" valign="top">
 
 ### 🏠 dotfiles
-My personal environment setup — shell, terminal, and tool configs.
+My personal environment setup — shell, terminal, and tool configs
 
 `Shell` `Config`
 
@@ -171,7 +171,7 @@ My personal environment setup — shell, terminal, and tool configs.
 <td width="50%" valign="top">
 
 ### 💤 LazyVimFork
-A personalized fork of LazyVim — tuned to how I actually work.
+A personalized fork of LazyVim — tuned to how I actually work
 
 `Lua` `Neovim`
 
@@ -194,7 +194,7 @@ A personalized fork of LazyVim — tuned to how I actually work.
 <td width="100%" valign="top">
 
 ### 🎲 dice_roller_rs
-Simulator for rpg dice roller
+Simulator for an RPG dice roller
 
 `Rust`
 
