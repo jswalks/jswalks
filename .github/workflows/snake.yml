@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk@v3
+        uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662
         id: snake
         with:
           github_user_name: jswalks
@@ -23,7 +23,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@c05ee637ec73429400a359430db8e5629f3f2564
         with:
           target_branch: output
           build_dir: dist
