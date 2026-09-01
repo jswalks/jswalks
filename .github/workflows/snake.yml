@@ -1,12 +1,12 @@
 name: Generate Snake
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"   # once a day at midnight UTC
   workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
   push:
     branches: [ main ]
-
+ 
 jobs:
   generate:
     permissions:
@@ -14,16 +14,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: jswalks
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@c05ee637ec73429400a359430db8e5629f3f2564
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
