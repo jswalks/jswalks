@@ -222,7 +222,7 @@ Simulator for an RPG dice roller
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jswalks&bg_color=0a0414&color=00f0ff&line=b026ff&point=e0e0ff&area=true&area_color=b026ff&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/jswalks/jswalks/output-graph/activity-graph.svg"/>
 
 </div>
 
@@ -230,7 +230,7 @@ Simulator for an RPG dice roller
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jswalks&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://raw.githubusercontent.com/jswalks/jswalks/output-trophy/trophy.svg"/>
 
 </div>
 
