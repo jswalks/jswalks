@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:b026ff&height=200&section=header&text=jswalks&fontSize=70&fontColor=0a0414&animation=fadeIn&fontAlignY=38&desc=aka%20Highjackal%20%E2%80%94%20Platform%20%and%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" alt="jswalks profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:b026ff&height=200&section=header&text=jswalks&fontSize=70&fontColor=0a0414&animation=fadeIn&fontAlignY=38&desc=aka%20HighJackal%20%E2%80%94%20Platform%20%and%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" alt="jswalks profile header"/>
 
 <img src="./assets/highjackal.svg" width="130" alt="Highjackal mark"/>
 
@@ -10,7 +10,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0414?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://your-site-here.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0414?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/jswalker-data)
 
 </div>
