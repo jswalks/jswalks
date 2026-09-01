@@ -20,7 +20,7 @@ jobs:
         with:
           username: jswalks
           output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: radical
           no-frame: "true"
           no-bg: "true"
