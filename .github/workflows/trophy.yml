@@ -1,0 +1,37 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day at midnight UTC
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: jswalks
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: radical
+          no-frame: "true"
+          no-bg: "true"
+          row: "1"
+          column: "7"
+          margin-w: "8"
+
+      - name: Push trophy.svg to output-trophy branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-trophy
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
