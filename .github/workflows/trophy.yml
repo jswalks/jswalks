@@ -19,7 +19,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: jswalks
-          output_path: dist/trophy.svg
+          output_path: trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}
           theme: radical
           no-frame: "true"
@@ -27,6 +27,11 @@ jobs:
           row: "1"
           column: "7"
           margin-w: "8"
+
+      - name: Move SVG into dist/
+        run: |
+          mkdir -p dist
+          mv trophy.svg dist/trophy.svg
 
       - name: Push trophy.svg to output-trophy branch
         uses: crazy-max/ghaction-github-pages@v4
