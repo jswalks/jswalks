@@ -8,13 +8,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Platform+%26+DevOps+Engineer+by+day;Building+MCP+servers+%2B+AI+tools+by+night;Currently+shipping%3A+athleteOS+%F0%9F%8F%83;Next+up%3A+a+Pok%C3%A9mon-flavoured+MCP+server;Contributing+to+TCGdex+%F0%9F%83%8F" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<!-- quick nav -->
+<a href="#tech-stack">Tech Stack</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#setups-configs">Setups</a> ·
+<a href="#packages">Packages</a> ·
+<a href="#stats">Stats</a> ·
+<a href="#trophies">Trophies</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0414?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/jswalker-data)
+[![Email](https://img.shields.io/badge/-Email-0a0414?style=for-the-badge&logo=gmail&logoColor=b026ff)](mailto:joshwalker.oni@gmail.com)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="about"></a>
 
 ## 👾 About Highjackal
 
@@ -30,7 +43,9 @@ currently:
 philosophy: "if it can be scripted, it shouldn't be manual"
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +87,9 @@ philosophy: "if it can be scripted, it shouldn't be manual"
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="featured-projects"></a>
 
 ## 🎮 Featured Projects
 
@@ -85,9 +102,11 @@ philosophy: "if it can be scripted, it shouldn't be manual"
 ### 🏋️ athleteOS
 Training & performance tracking platform for athletes — built to bring devops-grade reliability to a personal fitness tool
 
-`Claude` `Automation` 
+`Claude` `Agentic`
 
 [**→ View repo**](https://github.com/jswalks/Athlete.OS)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=Athlete.OS&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
 
 </td>
 <td width="50%" valign="top">
@@ -99,13 +118,15 @@ An MCP server that lets AI agents query and act on Pokémon data — early-stage
 
 [**→ View repo**](https://github.com/jswalks/pokemon-mcp-server)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=pokemon-mcp-server&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🃏 TCGdex — Contributor
-Contributing card & set data to the open-source Pokémon TCG database that powers apps across the ecosyste
+Contributing card & set data to the open-source Pokémon TCG database that powers apps across the ecosystem
 
 `Open Source` `Data` `TypeScript`
 
@@ -121,6 +142,8 @@ A roguelike built from scratch — dungeon generation, combat, and progression s
 
 [**→ View repo**](https://github.com/jswalks/Rogue-Like-Game)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=Rogue-Like-Game&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
+
 </td>
 </tr>
 <tr>
@@ -133,15 +156,19 @@ A monster catcher and training game written in Python using Tiled
 
 [**→ View repo**](https://github.com/jswalks/Tamers_Gauntlet)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=Tamers_Gauntlet&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🍽️ Eating Companion
 App to help with individuals' eating habits
 
-`Swift` `tbc`
+`Swift`
 
 [**→ View repo**](https://github.com/jswalks/eating_companion)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=eating_companion&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
 
 </td>
 </tr>
@@ -149,7 +176,9 @@ App to help with individuals' eating habits
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="setups-configs"></a>
 
 ## ⚙️ Setups & Configs
 
@@ -166,6 +195,8 @@ My personal environment setup — shell, terminal, and tool configs
 
 [**→ View repo**](https://github.com/jswalks/dotfiles)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=dotfiles&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -176,13 +207,17 @@ A personalized fork of LazyVim — tuned to how I actually work
 
 [**→ View repo**](https://github.com/jswalks/LazyVimFork)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=LazyVimFork&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
+
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="packages"></a>
 
 ## 📦 Packages
 
@@ -201,11 +236,17 @@ Simulator for an RPG dice roller
 
 [**→ View repo**](https://github.com/jswalks/dice_roller_rs)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jswalks&repo=dice_roller_rs&bg_color=0a0414&title_color=00f0ff&icon_color=b026ff&text_color=e0e0ff&border_color=2a1a4a&hide_border=false"/>
+
 </td>
 </tr>
 </table>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="stats"></a>
 
 ## 📊 GitHub Stats
 
@@ -225,6 +266,10 @@ Simulator for an RPG dice roller
 <img src="https://raw.githubusercontent.com/jswalks/jswalks/output-graph/activity-graph.svg"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:b026ff&height=3" width="100%"/>
+
+<a name="trophies"></a>
 
 ### 🏆 Trophies
 
@@ -257,4 +302,3 @@ Simulator for an RPG dice roller
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b026ff,100:00f0ff&height=100&section=footer" width="100%"/>
 
 </div>
-
